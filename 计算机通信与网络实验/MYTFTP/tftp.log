@@ -1,0 +1,291 @@
+Mon Dec 18 10:43:15 2023  INFO: upload 1.txt, mode: netascii, size: 0.0 kB, time cost: 0.00 s
+Mon Dec 18 10:45:58 2023  INFO: upload work.cpp, mode: octet, size: 0.7 kB, time cost: 0.01 s
+Mon Dec 18 11:08:07 2023  INFO: download work.cpp as workcp.cpp, mode: netascii, size: 0.7 kB, time cost: 0.13 s,download speed: 5.4 kB/s
+Mon Dec 18 11:10:13 2023  INFO: download work.cpp as workcp.cpp, mode: octet, size: 0.7 kB, time cost: 0.13 s,download speed: 5.5 kB/s
+Mon Dec 18 11:19:02 2023  INFO: upload 3.txt, mode: netascii, size: 2.1 kB, time cost: 0.01 s
+Tue Dec 19 10:42:19 2023  INFO: upload try.cpp, mode: netascii, size: 20.1 kB, time cost: 6.71 s
+Tue Dec 19 10:42:42 2023  WARN: upload try.cpp, mode: netascii, Can't receive ACK, resent
+Tue Dec 19 10:42:45 2023  WARN: upload try.cpp, mode: netascii, Can't receive ACK, resent
+Tue Dec 19 10:42:48 2023  WARN: upload try.cpp, mode: netascii, Can't receive ACK, resent
+Tue Dec 19 10:42:48 2023  ERROR: upload try.cpp, mode: netascii, Wait for ACK timeout
+Tue Dec 19 10:43:17 2023  INFO: upload try.cpp, mode: netascii, size: 20.1 kB, time cost: 0.11 s
+Tue Dec 19 10:43:36 2023  INFO: upload try.cpp, mode: netascii, size: 20.1 kB, time cost: 6.75 s
+Tue Dec 19 10:44:05 2023  INFO: upload 3.txt, mode: netascii, size: 2.1 kB, time cost: 0.01 s
+Tue Dec 19 10:44:19 2023  WARN: upload 3.txt, mode: netascii, Can't receive ACK, resent
+Tue Dec 19 10:44:19 2023  INFO: upload 3.txt, mode: netascii, size: 2.1 kB, time cost: 3.12 s
+Tue Dec 19 10:44:30 2023  ERROR: upload 3.txt, mode: netascii, Could not receive from server.
+Tue Dec 19 10:44:43 2023  WARN: upload 3.txt, mode: netascii, Can't receive ACK, resent
+Tue Dec 19 10:44:43 2023  INFO: upload 3.txt, mode: netascii, size: 2.1 kB, time cost: 4.69 s
+Tue Dec 19 10:45:30 2023  WARN: upload TEST1.txt, mode: netascii, Can't receive ACK, resent
+Tue Dec 19 10:45:35 2023  WARN: upload TEST1.txt, mode: netascii, Can't receive ACK, resent
+Tue Dec 19 10:45:40 2023  WARN: upload TEST1.txt, mode: netascii, Can't receive ACK, resent
+Tue Dec 19 10:45:44 2023  WARN: upload TEST1.txt, mode: netascii, Can't receive ACK, resent
+Tue Dec 19 10:45:50 2023  WARN: upload TEST1.txt, mode: netascii, Can't receive ACK, resent
+Tue Dec 19 10:45:57 2023  WARN: upload TEST1.txt, mode: netascii, Can't receive ACK, resent
+Tue Dec 19 10:45:58 2023  INFO: upload TEST1.txt, mode: netascii, size: 9.0 kB, time cost: 33.31 s
+Tue Dec 19 10:46:56 2023  INFO: upload TEST1.txt, mode: netascii, size: 9.0 kB, time cost: 0.05 s
+Tue Dec 19 12:34:12 2023  INFO: download try.cpp as try.cpp, mode: netascii, size: 20.1 kB, time cost: 2.49 s,download speed: 8.1 kB/s
+Tue Dec 19 12:35:02 2023  INFO: download try.cpp as try.cpp, mode: netascii, size: 20.1 kB, time cost: 7.67 s,download speed: 2.6 kB/s
+Tue Dec 19 12:35:26 2023  WARN: download try.cpp as try.cpp, mode: netascii, Can't receive DATA #4, resent
+Tue Dec 19 12:35:30 2023  WARN: download try.cpp as try.cpp, mode: netascii, Can't receive DATA #15, resent
+Tue Dec 19 12:35:34 2023  WARN: download try.cpp as try.cpp, mode: netascii, Can't receive DATA #22, resent
+Tue Dec 19 12:35:43 2023  WARN: download try.cpp as try.cpp, mode: netascii, Can't receive DATA #28, resent
+Tue Dec 19 12:35:46 2023  WARN: download try.cpp as try.cpp, mode: netascii, Can't receive DATA #31, resent
+Tue Dec 19 12:35:49 2023  WARN: download try.cpp as try.cpp, mode: netascii, Can't receive DATA #33, resent
+Tue Dec 19 12:35:54 2023  WARN: download try.cpp as try.cpp, mode: netascii, Can't receive DATA #37, resent
+Tue Dec 19 12:35:54 2023  INFO: download try.cpp as try.cpp, mode: netascii, size: 20.1 kB, time cost: 31.18 s,download speed: 0.6 kB/s
+Tue Dec 19 13:34:39 2023  INFO: download try.cpp as try.cpp, mode: octet, size: 20.1 kB, time cost: 2.16 s,download speed: 9.3 kB/s
+Tue Dec 19 13:35:13 2023  INFO: upload try.cpp, mode: netascii, size: 20.1 kB, time cost: 0.07 s
+Tue Dec 19 15:36:43 2023  �����ϴ� try.cpp��ģʽ��netascii���޷��ӷ������������ݡ�
+Tue Dec 19 15:36:55 2023  �����ϴ� try.cpp��ģʽ��octet���޷��ӷ������������ݡ�
+Tue Dec 19 15:37:10 2023  �����ϴ� workcp.cpp��ģʽ��octet���޷��ӷ������������ݡ�
+Tue Dec 19 15:37:37 2023  �����ϴ� TEST1.txt��ģʽ��octet���޷��ӷ������������ݡ�
+Tue Dec 19 15:47:55 2023  ERROR: upload try.cpp, mode: netascii, Could not receive from server.
+Tue Dec 19 15:48:07 2023  ERROR: upload try.cpp, mode: octet, Could not receive from server.
+Tue Dec 19 16:02:09 2023  ERROR: upload try.cpp, mode: netascii, Could not receive from server.
+Tue Dec 19 16:03:59 2023  ERROR: upload workcp.cpp, mode: netascii, Could not receive from server.
+Tue Dec 19 16:06:01 2023  ERROR: upload workcp.cpp, mode: netascii, Could not receive from server.
+Tue Dec 19 16:07:01 2023  INFO: upload workcp.cpp, mode: netascii, size: 0.7 kB, time cost: 0.00 s
+Tue Dec 19 16:13:16 2023  INFO: upload workcp.cpp, mode: netascii, size: 0.7 kB, time cost: 0.01 s
+Tue Dec 19 16:13:22 2023  INFO: upload try.cpp, mode: netascii, size: 20.1 kB, time cost: 0.12 s
+Tue Dec 19 16:13:26 2023  INFO: upload try.cpp, mode: octet, size: 20.1 kB, time cost: 0.09 s
+Tue Dec 19 16:14:38 2023  INFO: download try.cpp as try1.cpp, mode: netascii, size: 20.1 kB, time cost: 2.24 s,download speed: 9.0 kB/s
+Tue Dec 19 16:17:32 2023  ��Ϣ���ϴ� workcp.cpp, ģʽ��netascii, �ļ���С��0.7 kB, ��ʱ��0.01 s
+Tue Dec 19 16:19:06 2023  ��Ϣ���ϴ� workcp.cpp, ģʽ��netascii, �ļ���С��0.7 kB, ��ʱ��0.01 s
+Tue Dec 19 16:20:00 2023  信息：上传 workcp.cpp, 模式：netascii, 文件大小：0.7 kB, 耗时：0.00 s
+Tue Dec 19 17:00:43 2023 
+ 信息：上传 try.cpp, 模式：netascii, 文件大小：20.1 kB, 耗时：0.09 (null)
+Tue Dec 19 17:24:33 2023 
+ 信息：上传 try.cpp, 模式：netascii, 文件大小：20.1 kB, 耗时：0.09 (null)
+Tue Dec 19 17:24:46 2023  错误：上传 try.cpp，模式：netascii，无法从服务器接收数据。
+Tue Dec 19 17:25:15 2023 
+ 警告：上传 TEST1.txt， 模式：netascii， 未收到ACK，尝试重发
+Tue Dec 19 17:25:19 2023 
+ 警告：上传 TEST1.txt， 模式：netascii， 未收到ACK，尝试重发
+Tue Dec 19 17:25:27 2023 
+ 警告：上传 TEST1.txt， 模式：netascii， 未收到ACK，尝试重发
+Tue Dec 19 17:25:27 2023 
+ 信息：上传 TEST1.txt, 模式：netascii, 文件大小：9.0 kB, 耗时：20.19 (null)
+Tue Dec 19 19:40:36 2023 
+ 警告：上传 TEST1.txt， 模式：netascii， 未收到ACK，尝试重发
+Tue Dec 19 19:40:44 2023 
+ 警告：上传 TEST1.txt， 模式：netascii， 未收到ACK，尝试重发
+Tue Dec 19 19:40:49 2023 
+ 警告：上传 TEST1.txt， 模式：netascii， 未收到ACK，尝试重发
+Tue Dec 19 19:40:54 2023 
+ 警告：上传 TEST1.txt， 模式：netascii， 未收到ACK，尝试重发
+Tue Dec 19 19:40:59 2023 
+ 警告：上传 TEST1.txt， 模式：netascii， 未收到ACK，尝试重发
+Tue Dec 19 19:41:04 2023 
+ 警告：上传 TEST1.txt， 模式：netascii， 未收到ACK，尝试重发
+Tue Dec 19 19:41:08 2023 
+ 警告：上传 TEST1.txt， 模式：netascii， 未收到ACK，尝试重发
+Tue Dec 19 19:41:08 2023 
+ 错误：上传 TEST1.txt，模式：netascii，等待ACK超时
+Wed Dec 20 08:33:19 2023  错误：上传 3.txt，模式：netascii，无法从服务器接收数据。
+Wed Dec 20 08:33:58 2023  错误：上传 3.txt，模式：netascii，无法从服务器接收数据。
+Wed Dec 20 08:40:14 2023  错误：上传 TEST1.txt，模式：netascii，无法从服务器接收数据。
+Wed Dec 20 08:41:31 2023 
+ 警告：上传 TEST1.txt， 模式：netascii， 未收到ACK，尝试重发
+Wed Dec 20 08:41:34 2023 
+ 警告：上传 TEST1.txt， 模式：netascii， 未收到ACK，尝试重发
+Wed Dec 20 08:41:38 2023 
+ 警告：上传 TEST1.txt， 模式：netascii， 未收到ACK，尝试重发
+Wed Dec 20 08:41:39 2023 
+ 信息：上传 TEST1.txt, 模式：netascii, 文件大小：9.0 kB, 耗时：14.39 (null)
+Wed Dec 20 08:42:42 2023 
+ 信息：上传 TEST1.txt, 模式：netascii, 文件大小：9.0 kB, 耗时：0.02 (null)
+Wed Dec 20 08:48:42 2023 
+ 信息：上传 TEST1.txt, 模式：netascii, 文件大小：9.0 kB, 耗时：0.03 (null)
+Wed Dec 20 09:05:32 2023 
+ 信息：上传 try1.cpp, 模式：netascii, 文件大小：20.1 kB, 耗时：0.06 (null)
+Wed Dec 20 09:06:24 2023 
+ 信息：上传 try.cpp, 模式：netascii, 文件大小：20.1 kB, 耗时：0.05 (null)
+Wed Dec 20 09:07:51 2023  错误：上传 try1.cpp，模式：netascii，无法从服务器接收数据。
+Wed Dec 20 09:08:20 2023 
+ 信息：上传 TEST1.txt, 模式：netascii, 文件大小：9.0 kB, 耗时：0.03 (null)
+Wed Dec 20 09:08:44 2023  错误：上传 TEST1.txt，模式：netascii，无法从服务器接收数据。
+Wed Dec 20 09:12:12 2023 
+ 警告：上传 TEST1.txt， 模式：netascii， 未收到ACK，尝试重发
+Wed Dec 20 09:12:15 2023 
+ 警告：上传 TEST1.txt， 模式：netascii， 未收到ACK，尝试重发
+Wed Dec 20 09:12:15 2023 
+ 信息：上传 TEST1.txt, 模式：netascii, 文件大小：9.0 kB, 耗时：8.28 (null)
+Wed Dec 20 09:16:15 2023 
+ 警告：上传 try.cpp， 模式：netascii， 未收到ACK，尝试重发
+Wed Dec 20 09:16:20 2023 
+ 警告：上传 try.cpp， 模式：netascii， 未收到ACK，尝试重发
+Wed Dec 20 09:16:24 2023 
+ 警告：上传 try.cpp， 模式：netascii， 未收到ACK，尝试重发
+Wed Dec 20 09:16:24 2023 
+ 错误：上传 try.cpp，模式：netascii，等待ACK超时
+Wed Dec 20 09:17:50 2023 
+ 警告：上传 try.cpp， 模式：octet， 未收到ACK，尝试重发
+Wed Dec 20 09:17:54 2023 
+ 警告：上传 try.cpp， 模式：octet， 未收到ACK，尝试重发
+Wed Dec 20 09:17:59 2023 
+ 警告：上传 try.cpp， 模式：octet， 未收到ACK，尝试重发
+Wed Dec 20 09:17:59 2023 
+ 错误：上传 try.cpp，模式：octet，等待ACK超时
+Wed Dec 20 09:20:47 2023 
+ 信息：上传 try.cpp, 模式：octet, 文件大小：20.5 kB, 耗时：0.05 (null)
+Wed Dec 20 09:24:56 2023 
+ 警告：上传 TEST1.txt， 模式：netascii， 未收到ACK，尝试重发
+Wed Dec 20 09:25:01 2023 
+ 警告：上传 TEST1.txt， 模式：netascii， 未收到ACK，尝试重发
+Wed Dec 20 09:25:06 2023 
+ 警告：上传 TEST1.txt， 模式：netascii， 未收到ACK，尝试重发
+Wed Dec 20 09:25:06 2023 
+ 错误：上传 TEST1.txt，模式：netascii，等待ACK超时
+Wed Dec 20 09:25:13 2023 
+ 信息：上传 TEST1.txt, 模式：netascii, 文件大小：9.0 kB, 耗时：0.10 s
+Wed Dec 20 09:25:30 2023 
+ 警告：上传 TEST1.txt， 模式：netascii， 未收到ACK，尝试重发
+Wed Dec 20 09:25:34 2023 
+ 警告：上传 TEST1.txt， 模式：netascii， 未收到ACK，尝试重发
+Wed Dec 20 09:25:39 2023 
+ 警告：上传 TEST1.txt， 模式：netascii， 未收到ACK，尝试重发
+Wed Dec 20 09:25:39 2023 
+ 错误：上传 TEST1.txt，模式：netascii，等待ACK超时
+Wed Dec 20 09:25:47 2023 
+ 信息：上传 TEST1.txt, 模式：netascii, 文件大小：9.0 kB, 耗时：5.13 s
+Wed Dec 20 09:26:05 2023 
+ 警告：上传 try.cpp， 模式：netascii， 未收到ACK，尝试重发
+Wed Dec 20 09:26:09 2023 
+ 警告：上传 try.cpp， 模式：netascii， 未收到ACK，尝试重发
+Wed Dec 20 09:26:12 2023 
+ 警告：上传 try.cpp， 模式：netascii， 未收到ACK，尝试重发
+Wed Dec 20 09:26:19 2023 
+ 警告：上传 try.cpp， 模式：netascii， 未收到ACK，尝试重发
+Wed Dec 20 09:26:24 2023 
+ 警告：上传 try.cpp， 模式：netascii， 未收到ACK，尝试重发
+Wed Dec 20 09:26:24 2023 
+ 信息：上传 try.cpp, 模式：netascii, 文件大小：20.1 kB, 耗时：22.74 s
+Wed Dec 20 09:33:40 2023 
+ 错误：下载 EUPL-EN.pdf 保存为 EEcp.pdf，模式：netascii，无法从服务器接收数据。
+Wed Dec 20 09:33:53 2023 
+ 错误：下载 EUPL-EN.pdf 保存为 EEcp.pdf，模式：netascii，无法从服务器接收数据。
+Wed Dec 20 09:34:04 2023 
+ 错误：下载 EUPL-EN.pdf 保存为 EEcp.pdf，模式：netascii，无法从服务器接收数据。
+Wed Dec 20 09:34:33 2023 
+ 错误：下载 EUPL-EN.pdf 保存为 EEcp.pdf，模式：netascii，无法从服务器接收数据。
+Wed Dec 20 09:35:56 2023 
+ 错误：下载 TEST1.txt 保存为 t1cp.txt，模式：netascii，无法从服务器接收数据。
+Wed Dec 20 09:37:38 2023 
+ 错误：下载 TEST1.txt 保存为 t1cp.txt，模式：netascii，无法从服务器接收数据。
+Wed Dec 20 09:37:51 2023 
+ 错误：下载 TEST1.txt 保存为 t1cp.txt，模式：netascii，无法从服务器接收数据。
+Wed Dec 20 09:39:02 2023 
+ 错误：下载 work.cpp 保存为 wkcp.cpp，模式：netascii，无法从服务器接收数据。
+Wed Dec 20 09:39:35 2023 
+ 信息：下载 work.cpp 保存为 wkcp.cpp，模式：netascii，文件大小：0.7 kB，耗时：0.12 s，下载速度：6.0 kB/s
+Wed Dec 20 09:39:36 2023 
+ 信息：下载 work.cpp 保存为 wkcp.cpp，模式：netascii，文件大小：0.7 kB，耗时：0.12 s，下载速度：5.9 kB/s
+Wed Dec 20 09:41:04 2023 
+ 信息：下载 EUPL-EN.pdf 保存为 EEcp.pdf，模式：netascii，文件大小：33.5 kB，耗时：3.56 s，下载速度：9.4 kB/s
+Wed Dec 20 09:43:46 2023 
+ 警告：下载 EUPL-EN.pdf 保存为 EEcp.pdf,  模式：netascii, 未能接收到数据块 #5, 重发
+Wed Dec 20 09:43:50 2023 
+ 警告：下载 EUPL-EN.pdf 保存为 EEcp.pdf,  模式：netascii, 未能接收到数据块 #8, 重发
+Wed Dec 20 09:43:54 2023 
+ 警告：下载 EUPL-EN.pdf 保存为 EEcp.pdf,  模式：netascii, 未能接收到数据块 #8, 重发
+Wed Dec 20 09:44:00 2023 
+ 警告：下载 EUPL-EN.pdf 保存为 EEcp.pdf,  模式：netascii, 未能接收到数据块 #41, 重发
+Wed Dec 20 09:44:04 2023 
+ 警告：下载 EUPL-EN.pdf 保存为 EEcp.pdf,  模式：netascii, 未能接收到数据块 #43, 重发
+Wed Dec 20 09:44:13 2023 
+ 警告：下载 EUPL-EN.pdf 保存为 EEcp.pdf,  模式：netascii, 未能接收到数据块 #60, 重发
+Wed Dec 20 09:44:17 2023 
+ 警告：下载 EUPL-EN.pdf 保存为 EEcp.pdf,  模式：netascii, 未能接收到数据块 #62, 重发
+Wed Dec 20 09:44:21 2023 
+ 信息：下载 EUPL-EN.pdf 保存为 EEcp.pdf，模式：netascii，文件大小：33.5 kB，耗时：38.64 s，下载速度：0.9 kB/s
+Wed Dec 20 11:59:56 2023  错误：上传 TEST1.txt，模式：netascii，无法从服务器接收数据。
+Wed Dec 20 12:00:12 2023  错误：上传 TEST1.txt，模式：netascii，无法从服务器接收数据。
+Wed Dec 20 12:05:11 2023 
+ 警告：上传 TEST1.txt， 模式：netascii， 未收到ACK，尝试重发
+Wed Dec 20 12:05:17 2023 
+ 警告：上传 TEST1.txt， 模式：netascii， 未收到ACK，尝试重发
+Wed Dec 20 12:05:20 2023 
+ 警告：上传 TEST1.txt， 模式：netascii， 未收到ACK，尝试重发
+Wed Dec 20 12:05:20 2023 
+ 信息：上传 TEST1.txt, 模式：netascii, 文件大小：9.0 kB, 耗时：12.31 s
+Wed Dec 20 12:05:28 2023 
+ 信息：上传 TEST1.txt, 模式：netascii, 文件大小：9.0 kB, 耗时：0.01 s
+Wed Dec 20 12:06:19 2023 
+ 信息：下载 TEST1.txt 保存为 TEST1.txt，模式：netascii，文件大小：9.0 kB，耗时：1.00 s，下载速度：9.0 kB/s
+Wed Dec 20 12:09:04 2023 
+ 信息：下载 TEST1.txt 保存为 TEST1.txt，模式：octet，文件大小：9.0 kB，耗时：1.13 s，下载速度：8.0 kB/s
+Wed Dec 20 20:47:33 2023 
+ 信息：上传 try.cpp, 模式：netascii, 文件大小：20.1 kB, 耗时：0.08 s
+Wed Dec 20 20:48:36 2023 
+ 信息：下载 try.cpp 保存为 try.cpp，模式：netascii，文件大小：20.1 kB，耗时：2.18 s，下载速度：9.2 kB/s
+Thu Dec 21 09:39:44 2023 
+ 信息：下载 try.cpp 保存为 tcp.cpp，模式：netascii，文件大小：20.1 kB，耗时：2.57 s，下载速度：7.8 kB/s
+Thu Dec 21 09:39:59 2023 
+ 警告：下载 try.cpp 保存为 tcp.cpp,  模式：netascii, 未能接收到数据块 #5, 重发
+Thu Dec 21 09:40:03 2023 
+ 警告：下载 try.cpp 保存为 tcp.cpp,  模式：netascii, 未能接收到数据块 #8, 重发
+Thu Dec 21 09:40:06 2023 
+ 警告：下载 try.cpp 保存为 tcp.cpp,  模式：netascii, 未能接收到数据块 #10, 重发
+Thu Dec 21 09:40:08 2023 
+ 信息：下载 try.cpp 保存为 tcp.cpp，模式：netascii，文件大小：20.1 kB，耗时：13.90 s，下载速度：1.4 kB/s
+Thu Dec 21 09:40:25 2023 
+ 信息：下载 try.cpp 保存为 tcp.cpp，模式：netascii，文件大小：20.1 kB，耗时：2.56 s，下载速度：7.8 kB/s
+Thu Dec 21 09:40:36 2023 
+ 警告：下载 try.cpp 保存为 tcp.cpp,  模式：netascii, 未能接收到数据块 #15, 重发
+Thu Dec 21 09:40:40 2023 
+ 信息：下载 try.cpp 保存为 tcp.cpp，模式：netascii，文件大小：20.1 kB，耗时：11.05 s，下载速度：1.8 kB/s
+Thu Dec 21 09:40:48 2023 
+ 信息：下载 try.cpp 保存为 tcp.cpp，模式：netascii，文件大小：20.1 kB，耗时：2.12 s，下载速度：9.5 kB/s
+Thu Dec 21 09:40:59 2023 
+ 警告：下载 try.cpp 保存为 tcp.cpp,  模式：netascii, 未能接收到数据块 #15, 重发
+Thu Dec 21 09:41:03 2023 
+ 信息：下载 try.cpp 保存为 tcp.cpp，模式：netascii，文件大小：20.1 kB，耗时：11.03 s，下载速度：1.8 kB/s
+Thu Dec 21 09:41:52 2023 
+ 信息：下载 try.cpp 保存为 tcp.cpp，模式：netascii，文件大小：20.1 kB，耗时：8.10 s，下载速度：2.5 kB/s
+Thu Dec 21 09:44:10 2023 
+ 警告：下载 try.cpp 保存为 tcp.cpp,  模式：netascii, 未能接收到数据块 #17, 重发
+Thu Dec 21 09:44:13 2023 
+ 警告：下载 try.cpp 保存为 tcp.cpp,  模式：netascii, 未能接收到数据块 #17, 重发
+Thu Dec 21 09:44:18 2023 
+ 信息：下载 try.cpp 保存为 tcp.cpp，模式：netascii，文件大小：20.1 kB，耗时：16.09 s，下载速度：1.2 kB/s
+Thu Dec 21 09:45:10 2023 
+ 警告：上传 t1cp.txt， 模式：octet， 未收到ACK，尝试重发
+Thu Dec 21 09:45:13 2023 
+ 警告：上传 t1cp.txt， 模式：octet， 未收到ACK，尝试重发
+Thu Dec 21 09:45:16 2023 
+ 警告：上传 t1cp.txt， 模式：octet， 未收到ACK，尝试重发
+Thu Dec 21 09:45:16 2023 
+ 错误：上传 t1cp.txt，模式：octet，等待ACK超时
+Thu Dec 21 09:45:23 2023 
+ 警告：上传 t1cp.txt， 模式：octet， 未收到ACK，尝试重发
+Thu Dec 21 09:45:26 2023 
+ 警告：上传 t1cp.txt， 模式：octet， 未收到ACK，尝试重发
+Thu Dec 21 09:45:29 2023 
+ 警告：上传 t1cp.txt， 模式：octet， 未收到ACK，尝试重发
+Thu Dec 21 09:45:29 2023 
+ 错误：上传 t1cp.txt，模式：octet，等待ACK超时
+Thu Dec 21 09:45:31 2023 
+ 信息：上传 t1cp.txt, 模式：octet, 文件大小：0.0 kB, 耗时：0.00 s
+Thu Dec 21 09:45:47 2023  错误：上传 t1cp.txt，模式：octet，无法从服务器接收数据。
+Thu Dec 21 09:46:25 2023 
+ 信息：上传 workcp.cpp, 模式：octet, 文件大小：0.7 kB, 耗时：0.03 s
+Thu Dec 21 09:46:46 2023  错误：上传 TEST1.txt，模式：octet，无法从服务器接收数据。
+Thu Dec 21 09:47:26 2023 
+ 信息：上传 t1cp.txt, 模式：octet, 文件大小：0.0 kB, 耗时：0.02 s
+Thu Dec 21 09:47:47 2023 
+ 警告：上传 TEST1.txt， 模式：octet， 未收到ACK，尝试重发
+Thu Dec 21 09:47:50 2023 
+ 信息：上传 TEST1.txt, 模式：octet, 文件大小：9.0 kB, 耗时：6.88 s
+Thu Dec 21 09:47:53 2023 
+ 信息：上传 TEST1.txt, 模式：octet, 文件大小：9.0 kB, 耗时：0.01 s
+Thu Dec 21 09:48:19 2023 
+ 信息：上传 TEST1.txt, 模式：octet, 文件大小：9.0 kB, 耗时：6.33 s
+Thu Dec 21 09:48:53 2023 
+ 信息：上传 TEST1.txt, 模式：octet, 文件大小：9.0 kB, 耗时：4.31 s
+Thu Dec 21 09:49:03 2023 
+ 警告：上传 TEST1.txt， 模式：octet， 未收到ACK，尝试重发
+Thu Dec 21 09:49:09 2023 
+ 警告：上传 TEST1.txt， 模式：octet， 未收到ACK，尝试重发
+Thu Dec 21 09:49:11 2023 
+ 信息：上传 TEST1.txt, 模式：octet, 文件大小：9.0 kB, 耗时：13.23 s

@@ -1,0 +1,80 @@
+﻿  mainwindow.cpp
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(117,54): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(122,50): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(126,5): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(161,78): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(177,57): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(183,48): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(183,13): warning C4474: sprintf: 格式字符串中传递的参数太多
+  D:\MYTFTP_client\MYTFTP\mainwindow.cpp(183,13):
+  占位符和其参数预计 3 可变参数，但提供的却是 4 参数
+  
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(203,42): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(211,31): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(210,49): warning C4474: sprintf: 格式字符串中传递的参数太多
+  D:\MYTFTP_client\MYTFTP\mainwindow.cpp(210,49):
+  占位符和其参数预计 2 可变参数，但提供的却是 4 参数
+  
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(238,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(245,57): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(267,118): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(267,89): warning C4474: sprintf: 格式字符串中传递的参数太多
+  D:\MYTFTP_client\MYTFTP\mainwindow.cpp(267,89):
+  占位符和其参数预计 3 可变参数，但提供的却是 4 参数
+  
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(281,61): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(290,84): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(306,41): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(311,95): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(311,79): warning C4474: sprintf: 格式字符串中传递的参数太多
+  D:\MYTFTP_client\MYTFTP\mainwindow.cpp(311,79):
+  占位符和其参数预计 0 可变参数，但提供的却是 2 参数
+  
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(313,78): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(313,59): warning C4474: sprintf: 格式字符串中传递的参数太多
+  D:\MYTFTP_client\MYTFTP\mainwindow.cpp(313,59):
+  占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(315,130): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(324,107): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(324,45): warning C4474: sprintf: 格式字符串中传递的参数太多
+  D:\MYTFTP_client\MYTFTP\mainwindow.cpp(324,45):
+  占位符和其参数预计 2 可变参数，但提供的却是 5 参数
+  
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(378,5): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(415,63): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(425,22): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(453,65): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(462,101): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(513,30): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(511,37): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 4 拥有了类型“const char *”
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(511,37): warning C4313: "sprintf": 格式字符串中的 "%d" 与类型为 "const char *" 的参数 4 冲突
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(513,25): warning C4474: sprintf: 格式字符串中传递的参数太多
+  D:\MYTFTP_client\MYTFTP\mainwindow.cpp(513,25):
+  占位符和其参数预计 4 可变参数，但提供的却是 5 参数
+  
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(534,66): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(545,22): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(543,29): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 4 拥有了类型“const char *”
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(543,29): warning C4313: "sprintf": 格式字符串中的 "%d" 与类型为 "const char *" 的参数 4 冲突
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(545,17): warning C4474: sprintf: 格式字符串中传递的参数太多
+  D:\MYTFTP_client\MYTFTP\mainwindow.cpp(545,17):
+  占位符和其参数预计 4 可变参数，但提供的却是 5 参数
+  
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(566,95): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(566,79): warning C4474: sprintf: 格式字符串中传递的参数太多
+  D:\MYTFTP_client\MYTFTP\mainwindow.cpp(566,79):
+  占位符和其参数预计 0 可变参数，但提供的却是 2 参数
+  
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(570,78): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(570,59): warning C4474: sprintf: 格式字符串中传递的参数太多
+  D:\MYTFTP_client\MYTFTP\mainwindow.cpp(570,59):
+  占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(574,130): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(587,72): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\MYTFTP_client\MYTFTP\mainwindow.cpp(587,30): warning C4474: sprintf: 格式字符串中传递的参数太多
+  D:\MYTFTP_client\MYTFTP\mainwindow.cpp(587,30):
+  占位符和其参数预计 5 可变参数，但提供的却是 7 参数
+  
+  MYTFTP.vcxproj -> D:\MYTFTP_client\MYTFTP\debug\MYTFTP.exe
